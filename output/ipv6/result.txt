@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-31 07:01:52,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-31 19:04:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1516,6 +1516,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=dc45439be55f170e7b1e37adca8e2b7f&id=CE
 宁夏卫视,https://migu.188766.xyz/?migutoken=ef98f605ac5107eab7f441ee2de9c2fe&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 宁夏卫视,https://migu.188766.xyz/?migutoken=26338a9fa76117e99ab02841686485c1&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 宁夏卫视,https://migu.188766.xyz/?migutoken=b3e8512cba2e032eed346539e2733ea1&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
+宁夏卫视,https://migu.188766.xyz/?migutoken=50bbb867c192218d35ef2accc3ef68ba&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,https://migu.188766.xyz/?migutoken=8a43ec86f19ee2accce281ccf20e139f&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 青海卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -2309,6 +2310,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=dc45439be55f170e7b1e37adca8e2b7f&id=CE
 北京财经,https://migu.188766.xyz/?migutoken=b81a04608ec5a2588cb6dbf7431f43d8&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 
 ☘️上海频道,#genre#
+七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
+七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj
 上海外语,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
 上海新闻综合,http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
 上海新闻综合,https://migu.188766.xyz/?migutoken=4b0e429e357c8240ee5a137134bc9deb&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
@@ -2433,6 +2436,11 @@ CETV-4,https://migu.188766.xyz/?migutoken=dc45439be55f170e7b1e37adca8e2b7f&id=CE
 上海都市,https://migu.188766.xyz/?migutoken=3c6ce601d8d3462089274b78915ee98e&id=shds&type=sz
 上海都市,https://migu.188766.xyz/?migutoken=d641abfcf1d3ff19a38967771843a936&id=shds&type=sz
 上海都市,https://migu.188766.xyz/?migutoken=dc1c1180a0f4c6630cdca93083f61289&id=shds&type=sz
+东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
+东方影视,http://z.b.bkpcp.top/m.php?id=shys
+东方影视,http://gat.bkpcp.top/ymg.php?id=shys
+东方影视,http://z.b.bkpcp.top/m.php?id=dfys
+东方影视,https://migu.188766.xyz/?migutoken=6c5b70858d0091ce20ea7fe815cabafe&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
 东方财经,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
 动漫秀场,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226197/1.m3u8
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
@@ -3434,6 +3442,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=dc45439be55f170e7b1e37adca8e2b7f&id=CE
 山东教育,https://migu.188766.xyz/?migutoken=f4397917d59a8b16c666809f998e1498&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
 山东居家购物,http://livealone302.iqilu.com/iqilu/gwpd.m3u8
 山东农科,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
+山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
@@ -3478,8 +3487,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=dc45439be55f170e7b1e37adca8e2b7f&id=CE
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8
-滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
-滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
 滁州市广播电视台 新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州市广播电视台 公共,http://live.cztv.cc:85/live/ggpd.m3u8
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8
@@ -3542,7 +3549,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=dc45439be55f170e7b1e37adca8e2b7f&id=CE
 黑龙江新闻法治,https://ls.qingting.fm/live/4974/64k.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
-哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
 鹤岗新闻综合,http://[2409:8087:1a01:df::4060]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
@@ -4131,6 +4137,11 @@ CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
 风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
+魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
+魅力足球,http://goo.bkpcp.top/mg/mlzq
+魅力足球,https://tv.fanmingming.com/api/v6?id=mlyy
+魅力足球,https://hls-gateway.vpstv.net/streams/708839.m3u8
 天元围棋,https://cc06.tv12.xyz/47.m3u8
 快乐垂钓,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 快乐垂钓,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -4155,6 +4166,7 @@ CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
 快乐垂钓,https://migu.188766.xyz/?migutoken=0987de3d9ebca8a9f1ddf3b18822e292&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=b3a3efa3085c9963e2b653cc516d4b8b&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=0dbe8b418ec8bf95e7b5817ac2132301&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+快乐垂钓,https://migu.188766.xyz/?migutoken=35cb5bfc764d69075b885b21f4e0d062&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 
 🪁动画频道,#genre#
 卡酷动画,https://migu.188766.xyz/?migutoken=9b76bfee384fcd225c9a7354e27023e1&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
@@ -4232,6 +4244,7 @@ CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
 新动漫,https://migu.188766.xyz/?migutoken=5507eb7ea85c1cf8fa5a58d5a37563b6&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 新动漫,https://migu.188766.xyz/?migutoken=0fcd096ad9a8cfa8c6b2b8d2ea06cbbb&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 新动漫,https://migu.188766.xyz/?migutoken=a9f215dd73346c0c800f99a1e672f5db&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+新动漫,https://migu.188766.xyz/?migutoken=0e568dbf7d9f23719631234b30e4be53&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
@@ -4242,6 +4255,14 @@ CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B
 金鹰卡通,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001067/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰卡通,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001067/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰卡通,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225634/1.m3u8
+黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
+黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+黑莓动画,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8
+黑莓动画,http://[2409:8087:1a01:df::4007]:80/TVOD/88888888/224/3221225529/main.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8
+黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
+黑莓动画,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010002/1.m3u8
 炫动卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 炫动卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8
 炫动卡通,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
