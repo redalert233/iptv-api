@@ -4,3 +4,6 @@
 freetv
 migu.188766.xyz
 /epg.pw/stream
+migu.188766.xyz
+epg.pw/stream
+iptv.catvod.com
