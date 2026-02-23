@@ -3,7 +3,8 @@
 /audio/
 freetv
 migu.188766.xyz
-/epg.pw/stream
-migu.188766.xyz
 epg.pw/stream
 iptv.catvod.com
+38.75.136.137
+23.237.228.13
+php.jd
