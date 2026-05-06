@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-06 21:01:24,http://gxyd.484947.xyz/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
+2026-05-07 07:55:51,http://gxyd.484947.xyz/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
 
 📺央视频道,#genre#
 CCTV-1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
@@ -819,7 +819,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028
 无锡新闻综合,http://stream.thmz.com/wxtv1/playlist.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
@@ -832,6 +831,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
+无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 江苏公共,http://iptv.666230.xyz/iptv/jsyd.php/G_JSGG
 江苏城市,http://z.b.bkpcp.top/m.php?id=jscs
@@ -1326,7 +1326,9 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 天映经典,https://cdn10.163189.xyz/stream/163189/ccm/
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
+龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
+东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
